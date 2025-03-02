@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "860edf867d48bef7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0229dd7e723a0fbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baaa0b7bd3d260cb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "resources/FdI.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "FdI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "323226fbd83fa4b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c418495f622580e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2eb80b8f299f146d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "85b43079fdebc48b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "49dfa4201bf29602",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5
+  },
+  "right": {
+    "id": "1f69468c71df38e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a1b8aae172e7c1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10b1ab7208b76da2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. Tree Cutting Problem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a 4. Tree Cutting Problem"
+            }
+          },
+          {
+            "id": "367ceb1ca4c9e135",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. Tree Cutting Problem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da 4. Tree Cutting Problem"
+            }
+          },
+          {
+            "id": "c3c28bfab483b0b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "4c2c6c8725ebe556",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. Tree Cutting Problem.md"
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di 4. Tree Cutting Problem"
+            }
+          },
+          {
+            "id": "5b24168bdce9cd77",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin non più attivo"
+            }
+          },
+          {
+            "id": "43ada4a6694e0a8b",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "baaa0b7bd3d260cb",
+  "lastOpenFiles": [
+    "resources/Bison.pdf",
+    "resources/FdI.pdf",
+    "resources/Flex.pdf",
+    "resources/flex__bison.pdf",
+    "resources/Keith_Cooper_Linda_Torczon-Engineering_a_Compiler-EN.pdf",
+    "build/(DA FINIRE) 15.Ottimizzazione-globale.pdf",
+    "build/(DA FINIRE) 16. Analisi del Flusso dei Dati.pdf",
+    "build/(DA FINIRE) 14. Oltre l'ottimizzazione regionale.pdf",
+    "(DA FINIRE) 16. Analisi del Flusso dei Dati.md",
+    "(DA FINIRE) 15.Ottimizzazione-globale.md",
+    "(DA FINIRE) 14. Oltre l'ottimizzazione regionale.md",
+    "12. Astrazione delle procedure.md",
+    "(DA FINIRE) 4. Da espressione regolare a lexer.md",
+    "llvm.md",
+    "8. Parsing bottom-up.md",
+    "9. Conclusioni sui parser.md",
+    "13. Code Optimization.md",
+    "build/13. Code Optimization.pdf",
+    "11. Rappresentazioni Intermedie.md",
+    "build/12. Astrazione delle procedure.pdf",
+    "build/11. Rappresentazioni Intermedie.pdf",
+    "10. Analisi dipendente dal contesto.md",
+    "7-Costruire un parser top-down.md",
+    "6-Parsing top-down.md",
+    "(DA FINIRE) 5. Introduzione all'analisi sintattica.md",
+    "3-Analisi lessicale.md",
+    "2-La struttura di un compilatore.md",
+    "1-Introduzione.md",
+    "images/Pasted image 20241210163130.png",
+    "img/Screenshot 2024-09-30 alle 10.01.32.png",
+    "img/Screenshot 2024-09-30 alle 10.00.58.png",
+    "img/Pasted image 20241107120011.png",
+    "img/Pasted image 20241107114743.png",
+    "img/Pasted image 20241103170100.png",
+    "img/Pasted image 20241103165152.png",
+    "img/Pasted image 20241103164907.png",
+    "img/Pasted image 20241107162939.png",
+    "img/Pasted image 20241107185449.png",
+    "teoria/Richiami di probabilità/(da finire) 06-Verifica-delle-ipotesi.md",
+    "teoria/(da finire) 06-Lo-spettro-delle-matrici-di-Markov.md",
+    "teoria/05-Processi-di-Markov.md",
+    "teoria/01-Simulazioni-numeriche.md",
+    "teoria/Richiami di probabilità/05-Stima-parametrica.md",
+    "teoria/Richiami di probabilità/03-Modelli-di-variabili-aleatorie.md",
+    "teoria/Richiami di probabilità/04-La-distribuzione-delle-statistiche-campionarie.md",
+    "teoria/Richiami di probabilità/01-Elementi-di-probabilità.md"
+  ]
+}
